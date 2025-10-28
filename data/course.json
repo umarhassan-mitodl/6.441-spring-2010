@@ -33,7 +33,6 @@
     "website": "6-441-information-theory-spring-2010"
   },
   "course_title": "Information Theory",
-  "hide_download": true,
   "course_description": "6.441 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information, source coding theorem, lossless compression of data, optimal lossless coding, noisy communication channels, channel coding theorem, the source channel separation theorem, multiple access channels, broadcast channels, Gaussian noise, and time-varying channels.\n",
   "department_numbers": [
     "6"
@@ -44,7 +43,6 @@
     "content": "3d860eb8-cd09-13cd-c37e-eac921bc503e",
     "website": "6-441-information-theory-spring-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"
